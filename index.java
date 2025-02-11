@@ -5,4 +5,4 @@ class Main{
         int a = m.nextInt();
         System.out.println(a);
     }
-}
+}voprk;blnmew;lvsdnk;lrsnvbrklensvklnbf zkajon
