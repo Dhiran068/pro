@@ -4,6 +4,5 @@ class Main{
         Scanner m = new Scanner(System.in);
         int a = m.nextInt();
         System.out.println(a);
-        System.out.println("Hello World");
     }
 }
